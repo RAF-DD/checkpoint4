@@ -1,0 +1,230 @@
+body{
+
+    padding: 15px 0px 0px;
+    
+    
+}
+.navmain
+{   display: flex;
+    width: 1800px;
+    height: 60px;
+    position: fixed;
+    overflow: hidden;
+    background-color: white;
+    margin-top: -1.5em;
+    align-items: center;
+}
+
+.logo{
+    width: 250px;
+    padding-left: 50px;
+}
+
+.logodoc{
+    display: flex;
+    width: 1200px;
+    justify-content: space-between;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+}
+.menu a {
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: gray;
+    text-decoration: none;
+    
+}
+
+.titre
+{
+    color: darkseagreen;
+}
+.parag
+{
+    font-style:italic;
+    display: flex;
+    justify-content: space-between;
+    
+    padding-right: 50px;
+    color: gray;
+}
+.p1
+{
+    margin: .8em 0;
+    line-height: 1.75;
+    font-weight: 400;
+}
+.p2
+{
+    margin: .8em 0;
+    line-height: 1.75;
+    font-weight: 400;
+}
+.services
+{   
+    width: 80%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: auto;
+    height: 350px;
+    color: white;
+    
+    
+}
+
+.patients
+{margin: 10px;
+    background-color: #00ccb1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.for-doctor
+{margin: 10px;
+    background-color: #3d83df;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.for-clinics
+{margin: 10px;
+    background-color:#1b2734;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.box1
+{margin: 10px;
+padding-top: 50px;
+}
+.text1
+{
+    margin-left: 20px;
+}
+.brands {
+   
+    margin: 2.5rem auto 3.125rem;
+    display: grid;
+  grid-template-columns:  300px auto ;
+  grid-gap: 10px;
+  padding: 10px;
+}
+.culture
+{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+  padding: 20px 0;
+  font-size: 30px;
+  color: #747474;
+}
+.img
+{
+    margin: 10px;
+}
+.text2
+{
+    color: #00b39b;
+}
+.section1
+{
+    background: #e5faf8;
+}
+.titre2
+{
+    font-size: 2.125rem;
+    color: #00b39b;
+}
+.grid
+{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    width: 80%;
+    margin: auto;
+}
+.paragr1
+{
+    color: #747474;
+    max-width: 415px;
+    font-size: .875em;
+    font-weight: 400;
+    line-height: 1.7142857143;
+    font-family: Roboto,Arial,sans-serif;
+}
+.lead__logo
+{
+    width: 500px;
+    height: 500px;
+}
+.grid stats__grid fade-elements
+{
+    background-color: #e5faf8;
+}
+.tit3
+{
+    color: #00b39b;
+}
+.pragraf3
+{
+    color: #747474;
+    max-width: 415px;
+    font-size: .875em;
+    font-weight: 400;
+    line-height: 1.7142857143;
+    font-family: Roboto,Arial,sans-serif;
+}
+.word
+{
+    display: grid;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-wrap: nowrap;
+}
+.picture
+{
+    display: flex;
+    margin: 10px;
+    flex-wrap: wrap;
+}
+.warsaw
+{
+    margin: 10px;
+}
+.barcelone
+{
+    margin: 10px;
+}
+.istanbul
+{
+    margin: 10px;
+}
+.rome
+{
+    margin: 10px;
+}
+.bologna
+{
+    margin: 10px;
+}
+.curitiba
+{
+    margin: 10px;
+}
+.mexico
+{
+    margin: 10px;
+}
+.btnsmall 
+{background-color: #008CBA;}
+.TEXT3
+{
+font-style: unset;
+}
